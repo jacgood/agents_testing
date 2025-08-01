@@ -1,0 +1,9 @@
+[
+  {
+    "session_id": "c44afee0-273a-4b59-9ca3-869dccd7b1be",
+    "transcript_path": "/Users/jacobgood/.claude/projects/-Users-jacobgood-projects-agents-v3/c44afee0-273a-4b59-9ca3-869dccd7b1be.jsonl",
+    "cwd": "/Users/jacobgood/projects/agents_v3",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "i've provided many specialized sub-agents in the .claude/agents dir. Analzye the sub-agents and create a CLAUDE.md file that as we develop a project, you will utilize the sub-agents for the planning, developing, testing, and deploying of the project. I want to be able to talk with you, Claude, about what I would like and you delegate the work to the sub-agents. You will be the manager of all of the sub-agents and be responsibile for properly utilizing them on this project. Think hard about this."
+  }
+]
