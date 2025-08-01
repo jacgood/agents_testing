@@ -1,9 +1,0 @@
-[
-  {
-    "session_id": "c44afee0-273a-4b59-9ca3-869dccd7b1be",
-    "transcript_path": "/Users/jacobgood/.claude/projects/-Users-jacobgood-projects-agents-v3/c44afee0-273a-4b59-9ca3-869dccd7b1be.jsonl",
-    "cwd": "/Users/jacobgood/projects/agents_v3",
-    "hook_event_name": "Notification",
-    "message": "Claude is waiting for your input"
-  }
-]
